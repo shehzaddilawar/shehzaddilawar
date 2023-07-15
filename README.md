@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shehzad Dilawar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="400" src="![giphy](https://github.com/taranshehzad/taranshehzad/assets/95752101/ba80c3c2-6150-4264-b8ce-b934dec9fd43)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taranshehzad&label=Profile%20views&color=0e75b6&style=flat" alt="taranshehzad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taranshehzad" alt="taranshehzad" /></a> </p>
