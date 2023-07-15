@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/taranshehzad/taranshehzad/assets/95752101/910064ad-e109-4b3e-bfdf-48315ad12288)
+
 <h1 align="center">Hi 👋, I'm Shehzad Dilawar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
